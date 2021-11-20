@@ -1,3 +1,3 @@
 # ERC721NFT
 
-Following Dapp University Tutorial
+Following Dapp University Tutorial - ColorToken
